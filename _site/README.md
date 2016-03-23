@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# icmfht
-=======
 #International ASET Inc. Conferences
 Redesign of the Conference websites organized by International ASET Inc.
 
@@ -9,4 +6,3 @@ Share your research, ideas and knowledge through these scientific conferences th
 international-aset.com
 
 :)
->>>>>>> refs/remotes/origin/master
